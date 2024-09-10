@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: edge-integrations-snippets
+  description: Auto-generated catalog info for pantheon-systems/edge-integrations-snippets
+  annotations:
+    backstage.io/techdocs-ref: dir:docs/
+spec:
+  type: library
+  lifecycle: experimental
+  owner: site
